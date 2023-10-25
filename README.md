@@ -13,16 +13,18 @@ This is an example of a README.md file.
 ## Installation
 
 To install necessary dependencies, run the following command:
-\`\`\`
+
+```
 npm i
-\`\`\`
+```
 
 ## Usage
 
 To use this application, run the following command:
-\`\`\`
+
+```
 node index.js
-\`\`\`
+```
 
 ## License
 
